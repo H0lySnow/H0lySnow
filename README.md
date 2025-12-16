@@ -1,16 +1,9 @@
-<div style="background-color:#111; padding:40px; border-radius:14px;">
-
 ---
 
-<!-- HEADER IMAGE WITH TEXT -->
-<div style="position: relative; text-align: center;">
-  <p align="center">
-  <img src="./head.jpg" width="600">
-</p>
-<h1>Welcome</h1>
-<p>This is <a href="https://t.me/Holy_Snow">HolySnow's</a> Github page.</p>
+![header](./head.jpg)
 
-</div>
+# Welcome
+This is [HolySnow's](https://t.me/Holy_Snow) Github page.
 
 ---
 
@@ -25,7 +18,7 @@
 Hi I'm Mohammad reza
 
 I'm a computer & programming enthusiast with around 3-4 years of hands-on experience coding in **C#** and **Python**.  
-Recently, I've been diving into **Android development with Flutter** and enjoying the ride
+Recently, I've been diving into **Android development with Flutter** and enjoying the ride.
 
 Most of my work has been around **Telegram bot development**, but I also mess around with:
 
@@ -38,24 +31,11 @@ Always learning, always shipping.
 
 ---
 
-<div style="display: flex; align-items: center;">
+# I also love anime.
 
-  <div style="flex: 1; padding-right: 20px;" align="center">
-    <h1>
-    I also love anime. 
-    </h1>
-  </div>
-
-  <div>
-    <img src="./side.png" width="200"/>
-  </div>
-
-</div>
+![side](./side.png)
 
 ---
 
-<div style="text-align: center; line-height: 0;">
-  <h1 style="margin:0; padding:0; display:inline;">Bye Bye</h1>
-  <br/>
-  <img src="./end.png" width="1000" style="margin:0; padding:0; display:inline;"/>
-</div>
+# Bye Bye  
+![end](./end.png)
